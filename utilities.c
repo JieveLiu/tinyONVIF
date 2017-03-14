@@ -1,6 +1,6 @@
 /**
 * @file 		utilities.c
-* @author		Ken Chow <kenchow.cn@gmail.com>
+* @author		Ken Chow
 * @date		    6 Jan 2015
 * @version	    0.1
 * @brief		Offer convenient and useful functions for ONVIF.

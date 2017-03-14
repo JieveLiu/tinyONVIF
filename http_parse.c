@@ -1,6 +1,6 @@
 /**
 * @file 		http_parse.c
-* @author		Ken Chow <kenchow.cn@gmail.com>
+* @author		Ken Chow
 * @date		    30 Dec 2014
 * @version	    0.1
 * @brief		HTTP head pick up.

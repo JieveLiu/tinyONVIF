@@ -1,6 +1,6 @@
 /**
 * @file 		onvif_proto.h
-* @author		Ken Chow <kenchow.cn@gmail.com>
+* @author		Ken Chow
 * @date		    30 Dec 2014
 * @version	    0.1
 * @brief		This file implements for providing ONVIF protocol needs reply interface.
