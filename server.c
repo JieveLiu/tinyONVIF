@@ -1,6 +1,6 @@
 /**
 * @file 		server.c
-* @author		Ken Chow <kenchow.cn@gmail.com>
+* @author		Ken Chow
 * @date		    30 Dec 2014
 * @version	    0.1
 * @brief		Onvif process entry.
