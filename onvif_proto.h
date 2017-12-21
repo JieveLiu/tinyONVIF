@@ -1,6 +1,6 @@
 /**
 * @file 		onvif_proto.h
-* @author		Ken Chow <kenchow.cn@gmail.com>
+* @author		Zhou Wei <weiofcn@gmail.com>
 * @date		    30 Dec 2014
 * @version	    0.1
 * @brief		This file implements for providing ONVIF protocol needs reply data.
@@ -8,7 +8,7 @@
 * @par Copyright (c): 
 * 		        MIT license: http://opensource.org/licenses/MIT
 * @par History:
-*	            version: Ken Chow, 30 Dec 2014, Initial\n
+*	            version: Zhou Wei, 30 Dec 2014, Initial\n
 */
 
 #ifndef ONVIF_PROTO_H
