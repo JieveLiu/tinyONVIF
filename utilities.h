@@ -1,6 +1,6 @@
 /**
 * @file 		utilities.h
-* @author		Ken Chow <kenchow.cn@gmail.com>
+* @author		Zhou Wei <weiofcn@gmail.com>
 * @date		    6 Jan 2015
 * @version	    0.1
 * @brief		Offer convenient and useful functions for ONVIF.
@@ -8,7 +8,7 @@
 * @par Copyright (c): 
 * 		        MIT license: http://opensource.org/licenses/MIT
 * @par History:
-*	            version: Ken Chow, 6 Jan 2015, Initial\n
+*	            version: Zhou Wei, 6 Jan 2015, Initial\n
 */
 
 #ifndef UTILITIES_H
